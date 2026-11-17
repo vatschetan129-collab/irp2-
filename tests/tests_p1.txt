@@ -1,0 +1,5 @@
+Input:
+I love coding.
+
+Expected Output:
+coding. love I

@@ -1,0 +1,5 @@
+Input:
+1234
+
+Expected Output:
+Sum of digits: 10
