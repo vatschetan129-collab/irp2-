@@ -1,5 +1,11 @@
-Input:
-I love coding.
+Test Case 1:
+Input: I love coding.
+Expected Output: coding. love I
 
-Expected Output:
-coding. love I
+Test Case 2:
+Input: Hello
+Expected Output: Hello
+
+Test Case 3:
+Input: Python is easy to learn
+Expected Output: learn to easy is Python
