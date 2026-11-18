@@ -50,3 +50,14 @@ python problems/p4_pair_count.py
 
 Test input and expected output examples are
 provided in the tests folder.
+## Test Cases
+
+The tests folder contains sample inputs and expected outputs.
+
+### Testing Instructions
+
+1. Open the project folder in VS Code.
+2. Open the terminal.
+3. Run the required Python program.
+4. Enter the sample input.
+5. Compare the result with the expected output in the tests folder.
