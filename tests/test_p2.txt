@@ -1,6 +1,14 @@
-Input:
-10 20 30 40 50
-30
+Test Case 1:
+Array: 10 20 30 40 50
+Target: 30
+Expected Output: Index: 2
 
-Expected Output:
-Index: 2
+Test Case 2:
+Array: 10 20 30 40 50
+Target: 10
+Expected Output: Index: 0
+
+Test Case 3:
+Array: 10 20 30 40 50
+Target: 100
+Expected Output: Index: -1
