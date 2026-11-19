@@ -1,6 +1,19 @@
-Input:
-1 5 7 -1 5
-6
+Test Case 1:
+Array: 1 5 7 -1 5
+K: 6
+Expected Output: Number of pairs: 3
 
-Expected Output:
-Number of pairs: 3
+Test Case 2:
+Array: 1 2 3 4
+K: 5
+Expected Output: Number of pairs: 2
+
+Test Case 3:
+Array: 1 2 3
+K: 10
+Expected Output: Number of pairs: 0
+
+Test Case 4:
+Array: 2 2 2
+K: 4
+Expected Output: Number of pairs: 3
