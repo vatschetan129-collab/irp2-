@@ -61,3 +61,20 @@ The tests folder contains sample inputs and expected outputs.
 3. Run the required Python program.
 4. Enter the sample input.
 5. Compare the result with the expected output in the tests folder.
+## Project Features
+
+- Reverse words in a sentence.
+- Binary search in a sorted array.
+- Recursive digit sum calculation.
+- Count pairs with a given target sum.
+
+## Test Coverage
+
+All four programs have sample test cases
+and expected outputs in the tests folder.
+
+## Git Workflow
+
+- Main branch: main
+- Development branch: dev
+- Changes are developed on dev and merged into main.
