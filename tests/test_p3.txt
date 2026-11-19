@@ -1,5 +1,15 @@
-Input:
-1234
+Test Case 1:
+Input: 1234
+Expected Output: Sum of digits: 10
 
-Expected Output:
-Sum of digits: 10
+Test Case 2:
+Input: 555
+Expected Output: Sum of digits: 15
+
+Test Case 3:
+Input: 0
+Expected Output: Sum of digits: 0
+
+Test Case 4:
+Input: 987
+Expected Output: Sum of digits: 24
